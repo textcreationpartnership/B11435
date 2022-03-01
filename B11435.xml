@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the the [sic] Lord of Rosny, Great Treasurer of France to the Queene Regent of France Concerning the resignation of his offices. Faithfully translated out of French, by E.D.</title>
+            <title>Lettre de monsieur de Rosny a la royne regente. English</title>
+            <author>Sully, Maximilien de Béthune, duc de, 1559-1641.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1613</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11435</idno>
+            <idno type="STC">STC 1976</idno>
+            <idno type="STC">ESTC S115573</idno>
+            <idno type="EEBO-CITATION">99850792</idno>
+            <idno type="PROQUEST">99850792</idno>
+            <idno type="VID">177602</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B11435)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177602)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1090:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the the [sic] Lord of Rosny, Great Treasurer of France to the Queene Regent of France Concerning the resignation of his offices. Faithfully translated out of French, by E.D.</title>
+                  <title>Lettre de monsieur de Rosny a la royne regente. English</title>
+                  <author>Sully, Maximilien de Béthune, duc de, 1559-1641.</author>
+                  <author>E. D., fl. 1613.</author>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho: Creed, for William Wright, and are to be sold at his shop on Snowe-hill, at the signe of the Harrow,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1613.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation, by E.D., of: Sully, Maximilien de Béthune, duc de.  Lettre de monsieur de Rosny a la royne regente.</note>
+                  <note>"Letter resigning his iffice of governor of the Bastille and the superintendent of the finances."--Folger Shakespeare Library Catalogue.</note>
+                  <note>Running title reads: A letter from the Lord Rosny.</note>
+                  <note>A2r, line 12, last word: 'commandeme[n]t'.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marie de Médicis, --  Queen, consort of Henry IV, King of France, 1573-1642.</term>
+               <term>France --  History --  Louis XIII, 1601-1643.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177602:1"/>
+            <p>A LETTER FROM THE THE LORD OF ROS<g ref="char:EOLhyphen"/>ny, Great Treaſurer of France to the Queene Regent of <hi>FRANCE.</hi>
+            </p>
+            <p>Concerning the re<g ref="char:EOLhyphen"/>ſignation of his Offices.</p>
+            <p>FAITHFVLLY TRANSLATED out of French, by <hi>E. D.</hi>
+            </p>
+            <p>LONDON Printed by <hi>Tho: Creed,</hi> for <hi>William Wright,</hi> and are to be ſold at his ſhop on <hi>S<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re-hill,</hi> at the ſigne of the Harrow. 1613.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:177602:2"/>
+            <pb facs="tcp:177602:2"/>
+            <head>TO ALL CHA<g ref="char:EOLhyphen"/>ritable good Chriſti<g ref="char:EOLhyphen"/>an Subiects in generall, and moſt eſpecially to the Prote<g ref="char:EOLhyphen"/>ſtants whereſoeuer.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">I</seg>Ndifferent Readers,</salute>
+            </opener>
+            <p>this Gentleman is a Proteſtant who did carrie himſelfe ſo worthily in his offices in the time of the late King his Maiſter, that he was ve<g ref="char:EOLhyphen"/>ry well thought of, accor<g ref="char:EOLhyphen"/>ding to the worth and ſuffi<g ref="char:EOLhyphen"/>tiencie of him in his ſo great and waightie Im<g ref="char:EOLhyphen"/>ployments. As you may hereafter perceiue in this following diſcourſe of his Letter written vnto the now Queene Regent of <hi>France,</hi> how<g ref="char:EOLhyphen"/>ſoeuer it hath pleaſed her, and her Councell ſince, otherwaies to diſpoſe of his offices, and remoue him from thoſe his ſo waightie af<g ref="char:EOLhyphen"/>faires, wherein it doth appeare, the French King his worthie maiſter, had great reaſon to hold him well worthie of thoſe high places (wherein it ſeemes) he hath bene a prouident, painefull, and carefull Treaſuror, Officer, and
+<pb facs="tcp:177602:3"/> Seruant, and a moſt faithfull, Religious, and worthie Subiect: Howſoeuer it hath pleaſed God (by his Queen) to worke in him and his Eſtate, ſo great an alteration, for the tryall of his faith and patience. All which he in great humilitie doth doubtleſſe well applie to his owne Reſt, eaſe, and more diuine Imploy<g ref="char:EOLhyphen"/>ments, the content of Charitable minded peo<g ref="char:EOLhyphen"/>ple, and the comfort of his owne ſoule; which comfort of ſoule, I beſeech our good God to impart to all Religious, Vertuous, Charitable, and well minded people: To liue in happines, and die in peace.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:177602:3"/>
+            <head>A LETTER FROM THE LORD OF <hi>ROSNY,</hi> GREAT Treaſurer of <hi>France,</hi> TO <hi>The Queene Regent of France, Concerning the Reſignation of his Offices.</hi>
+            </head>
+            <opener>
+               <salute>MADAME,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Mong all the honourable Conditions of a French Gentleman, I alwayes held that to be of moſt of eſtéeme, which was em<g ref="char:EOLhyphen"/>ployed in the Important Affaires of his Countrey, in the happie Adminiſtration of the ſeme: and in obeying the Commaundements of his Prince: Throughout the courſe of manie yeares, I haue managed the principall of this Eſtate, with vnexpected ſucceſſe: vnder my King, from a bottomleſſe Eulphe of miſerie, I haue guided them to the toppe of all glo<g ref="char:EOLhyphen"/>rie.</p>
+            <pb facs="tcp:177602:4"/>
+            <p>At this day (<hi>MADAME</hi>) I doe obey the deſire and expreſſe will of your Maieſtie, I re<g ref="char:EOLhyphen"/>mit into your handes the two faireſt Tokens of the benefites and rewards of my good Mai<g ref="char:EOLhyphen"/>ſter, <hi>The Baſtile,</hi> and <hi>the Treaſurie,</hi> which (ſo long as he liued, I poſſeſſed;) Now that he is deceaſed, I reſtore them to you: and well con<g ref="char:EOLhyphen"/>tent my ſelfe, that the Effects of my ſeruices may remaine ingrauen in the hearts of your people. An other not ſo faithfull as my ſelfe, might all all <hi>France</hi> with his complaints: But my perpetuall deuotion to the place of my Natiuitie, and to my King, doe reſtrain<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and bridle my Tongue, and maketh mee to ſéeke rather in mine owne incapacitie, then in any other conſideration, the cauſe of ſo great an alteration.</p>
+            <p>In one onely point is my ſpirit impati<g ref="char:EOLhyphen"/>ently tormented: that is; Of that more then abſolute reſolution of <hi>your Maiestie,</hi> to vrg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mee to take money in recompence for my Of<g ref="char:EOLhyphen"/>fies: Not that I do not ſufficiently iudge how neceſſary this courſe is, for the good of your ſeruice: But on the other ſide, it is to my ſelfe ſo preiudicall, and ſo contrary to my de<g ref="char:EOLhyphen"/>mands, that whatſoeuer power I haue ouer my ſelfe to content you, yet haue I not ſuffi<g ref="char:EOLhyphen"/>cient to accept it. But contrarywiſe (<hi>MA<g ref="char:EOLhyphen"/>DAME</hi>) I am forced to refuſe it, and con<g ref="char:EOLhyphen"/>trary to my dutie in this occaſion, to preferre my particular Intereſt, before that of your Maieſtie: of all the meanes prouided to wade through this buſines, this muſt néedes be to me the moſt odious: and indéede I do abhorr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:177602:4"/> it, and holde it as procéeding not from your goodneſſe, but from the malice of mine Ene<g ref="char:EOLhyphen"/>mies.</p>
+            <p>For (<hi>MADAME</hi>) wherefore doe they not rather laye this pretence vpon my ouer<g ref="char:EOLhyphen"/>wild humour, an incompatible eſtrangement from all gratification of whatſoeuer ſocietie, and diſſimulation vpon the weake order that I may paradue<g ref="char:cmbAbbrStroke">̄</g>ture haue taken in the affaires of my Offices: vpon my had Huſbandrie, in matter of the Treazurie: vpon the euils that haue procéeded of ſuch ſtrong intelligences as I haue practized, as well within as without the Realme: and vpon ſuch extreame care as I tooke to eſtabliſh my ſelfe in the preſeruation of my Fortunes: Wherefore (I ſay <hi>Madam</hi>) haue they not rather choſen this founda<g ref="char:EOLhyphen"/>tion, rather then any other: neither ſo faire in ſhewe, and yet farre more vnlikely? For, to publiſh or giue out, that I neuer craued a<g ref="char:EOLhyphen"/>ny other recompence, then for my Office of the Treaſurie, neither yet any other reward then the Office of a Marſhal of <hi>France,</hi> It is a matter that cannot bee truely maintained; The impudencie of mine Enemies, and the complaint of ſome of my Friendes, ſhall neuer be of force ſufficient, otherwiſe to teſti<g ref="char:EOLhyphen"/>fie it.</p>
+            <p>But if your <hi>Maieſtie</hi> doe accuſe me, that of my ſelfe I haue offered you all that I did poſ<g ref="char:EOLhyphen"/>ſeſſe, I confeſſe it: Neither doe I denie, but that many times I haue aſſured your <hi>Maie<g ref="char:EOLhyphen"/>ſtie,</hi> that all that was mine depended vpon you; yea, euen my very life it ſelfe.</p>
+            <pb facs="tcp:177602:5"/>
+            <p>But ſurely (<hi>MADAME</hi>) I will alſo ad<g ref="char:EOLhyphen"/>uow, that at that time I could not imagine that ſuch Offers to a mans Soueraigne, could be offence ſufficient to be therefore depri<g ref="char:EOLhyphen"/>ued and put from his Dignities. So as if now you doe ſo take it, it is a principle in my opinion, very new: Yet ſhall not this nouel<g ref="char:EOLhyphen"/>tie neuertheles euer make me to repent that I haue done my dutie.</p>
+            <p>But contrarywiſe (<hi>MADAME</hi>) at this preſent, I doe againe offer to <hi>your Maiſtie,</hi> not onely my honors, my goods, but alſo my ve<g ref="char:EOLhyphen"/>ry life, with the liues of my Children: Nei<g ref="char:EOLhyphen"/>ther doe I preſent them vnto you vppon a<g ref="char:EOLhyphen"/>ny condition, but to vſe them according to your pleaſure; Yea, euen to honour my very Enemies with them, if to take them from me ſimplie be not matter of content.</p>
+            <p>If my paſſed Actions haue tended to the aduancement of this Crowne, I will alſo that my obedience ſhall bee the firſt to ſhewe the meanes to preſerue it. And whatſoeuer my Enemies doe publiſh of my loue to that I poſ<g ref="char:EOLhyphen"/>ſeſſe, or whatſoeuer other mens humors may helpe to bréede beliefe, yet is it true (<hi>MA<g ref="char:EOLhyphen"/>DAME</hi>) that I will abandon all that my ſer<g ref="char:EOLhyphen"/>uices haue purchaſed me, with more conſtan<g ref="char:EOLhyphen"/>cie, yea, with a thouſand times more reſo<g ref="char:EOLhyphen"/>lution, then an other ſhall poſſeſſe them with pleaſure. It ſhall ſuffize me in my ſolitarines, to learne how your <hi>Maieſtie</hi> doth daily make your Scepter to flouriſh, and preferring in theſe Affaires a goodly Order, and in your Coffers Treaſure ſufficient to ſupport this Eſtate, which principally ſubſiſteth vppon the ſupport of theſe two Pillers.</p>
+            <p>This is it wherein I will moſt quietly
+<pb facs="tcp:177602:5"/> entertaine my idle cogitations, and comforte my ſelfe ouer the loſſe of my good King, with<g ref="char:EOLhyphen"/>out being conſtrained (if it may ſo pleaſe you) to accept or reſerue any other recompence for my Offices, then my contentment to receiue none, and the honour of your expreſſe Com<g ref="char:EOLhyphen"/>mandements, but if neuertheleſſe, for a finall Reſolution, and that I may not ſhew my ſelfe diſobedient to your willes, <hi>your Maieſtie</hi> doe abſolutely enioyne me to the contrarie.</p>
+            <p>This then (<hi>MADAME</hi>) is the grea<g ref="char:EOLhyphen"/>teſt fauour, and that which I moſt deſire, wherewith I doe moſt humbly beſéech you to recompence me, that it may pleaſe <hi>your Maie<g ref="char:EOLhyphen"/>ſtie (MADAME</hi>) immediately to command my greateſt enemies to goe into the Chamber<note place="margin">The Millions are of Crowns and not of Pounds.</note> of Accounts, there to verifie &amp; take view of the profites or detriments of my 12. yeares wat<g ref="char:EOLhyphen"/>chings. Then if it be not fou<g ref="char:cmbAbbrStroke">̄</g>d, that during the ſaide time, vnder the power and aucthoritie of my great King, I haue by my dexterity and by my trauails, rooted out the greateſt confuſion that euer was in the <hi>Treaſuries of France:</hi> that beſide the ſparing of eight Millio<g ref="char:cmbAbbrStroke">̄</g>s euery yéere: whereof hée yerely became indebted to his Of<g ref="char:EOLhyphen"/>ficers, beſides the payment of all charges, and of all the ordinarie <hi>Expences of the Eſtate,</hi> of all the wages of the ſoueraigne Courts, of all the wages of the <hi>men of Warre,</hi> of all the <hi>Garriſons, Embaſſages,</hi> the <hi>Kings houſe,</hi> the <hi>Voyages &amp; Mar<g ref="char:EOLhyphen"/>riages, giuing of Rewards &amp; Recompences,</hi> with a thouſand other <hi>expences, too tedious to be here ſet downe,</hi> beſides alſo <hi>the Guardes ordinary ſummes,</hi> without augmenting <hi>either Taxes or Impoſiti<g ref="char:EOLhyphen"/>ons in the Realme.</hi>
+            </p>
+            <pb facs="tcp:177602:6"/>
+            <p>Yea contrariwiſe, If they finde not that I haue yet for the entertainment of three great Armies, whereof the one recouered <hi>Amuns</hi> an other reduced <hi>Bretaigne,</hi> and the third conque<g ref="char:EOLhyphen"/>red <hi>Breſſe,</hi> and <hi>Sauoye:</hi> found meanes extraor<g ref="char:EOLhyphen"/>dinarily to furniſh aboue twelue Millions: for the diſcharge of the debts of <hi>France,</hi> grow<g ref="char:EOLhyphen"/>en by Treaties, aboue fiue and twenty Milli<g ref="char:EOLhyphen"/>ons: for the payment of thoſe of <hi>Switz<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rland, Germanie, Italie,</hi> and <hi>England,</hi> aboue thirtie Millions: For the payment of Penſions, both within and without the Realme, aboue foure and twentie Millions: For the ſuccour of for<g ref="char:EOLhyphen"/>raigne Prouinces, aboue eight Millions: For the refurniſhment of the Artilleries, Fortifi<g ref="char:EOLhyphen"/>cations, High-wayes, and Buildings, aboue eight Millions: For the reliefe of the poore, aboue ſixe Millions: To lay vp in the <hi>Trea<g ref="char:EOLhyphen"/>ſurie,</hi> in the Coffers of the <hi>Bastille,</hi> or to leaue in <hi>Depoſito,</hi> in the hands of the Treaſurer <hi>of the Espargne,</hi> aboue ſeue<g ref="char:cmbAbbrStroke">̄</g>téene Millions: To ſatiſ<g ref="char:EOLhyphen"/>fie many other Expences, which may eaſily be verified, aboue twenty Millions: If I haue not alſo beſides procured Contracts for the re<g ref="char:EOLhyphen"/>déeming of the Demaynes of <hi>France,</hi> that were engaged, wherof the greateſt part is daylie put in Execution; Such Redemptions, amoun<g ref="char:EOLhyphen"/>ting to aboue fortie Millions.</p>
+            <p>Finally, (<hi>MADAME</hi>) If I haue not in my great care, by my onely Vigilancie, put in practiſe theſe ſparings: If alſo to continue the ſame duty to <hi>Fra<g ref="char:cmbAbbrStroke">̄</g>ce,</hi> I haue not at all times offred to <hi>your Maieſtie,</hi> to looſe my life, or to ſup<g ref="char:EOLhyphen"/>port the affaires, &amp; that in the ſame eminencie, yea, euen to preſent them in a higher degrée.</p>
+            <pb facs="tcp:177602:6"/>
+            <p>If I ſay, I haue not preferred all theſe things and more, then doe I ſubmit my ſelfe (<hi>MA<g ref="char:EOLhyphen"/>DAME</hi>) to any puniſhment for my preſum<g ref="char:EOLhyphen"/>tion, to receiue ſuch odious recompence, that you ſhall appoint me, as the price of my honors &amp; of my offices: But if alſo (<hi>MADAME</hi>) there be not any one of theſe Articles found falſe, (vnleſſe it be that they ſpeake too little) &amp; that my former affection hath receiued no o<g ref="char:EOLhyphen"/>ther alteration, but to be growne more ardent and ſtrong, ſuffer me (<hi>MADAME</hi>) for my more worthy ſatiſfaction, to endure the harme that you doe me, without accepting the good that you offer me. Reuoke and call in my offi<g ref="char:EOLhyphen"/>ces without this gratious charge. Or if ne<g ref="char:EOLhyphen"/>ceſſarily (<hi>MADAME</hi>) you will vouchſafe yet to honor me with ſome fauour, Let it be onely, if it may ſo pleaſe you, a perpetuall re<g ref="char:EOLhyphen"/>membrance of my fidelitie: A fauour which I deſire of your Maieſtie: not that hereafter I might be recalled to the painefull trauell of the affaires: but onely to leaue me in reſt, that I may ſtill liue in the remembrance of her, who is this day the Regent of my country: the li<g ref="char:EOLhyphen"/>uing ſoule of my maiſter, and the mother of my King. And ſurely (<hi>MADAME</hi>) it is alſo an honor, and laſt acknowledgement which you Madame cannot iuſtly denie me: for ſith all they whom in my offices I may haue offended, doe labour to ſée me depriued, much more may they remember my ſeruices that doe triumph in them.</p>
+            <p>Farewell houſe, farewell fortreſſe, which I haue had in kéeping and gouernment aboue
+<pb facs="tcp:177602:7"/> twelue yeares. Farewell Temple of the God<g ref="char:EOLhyphen"/>deſſe <hi>Moneta Mony,</hi> who haue procured me ſo great enuie: Let me now goe, now that I am wearie of theſe affaires; Returne me to a pri<g ref="char:EOLhyphen"/>uate life, wherein I may no more haue ſuch cares. I am he, who ſtrong in ſpirit and cou<g ref="char:EOLhyphen"/>rage, hauing comprehended the very ground of the riches of the King and Kingdome, haue gouerned them: I am he, vnto whom the ſe<g ref="char:EOLhyphen"/>licitie of this eſtate, augmented in new reue<g ref="char:EOLhyphen"/>newes, and the coffers of our yong maiſters, repleniſhed by iuſt and lawfull meanes, ſtand bound for that plaine and aſſured order that I haue eſtabliſhed; I haue reaped great honors and large recompe<g ref="char:cmbAbbrStroke">̄</g>ce for that induſtrious care that I tooke vnder a great king. I was of great power, &amp; had great authoritie, but euen in the turning of a ha<g ref="char:cmbAbbrStroke">̄</g>d, in his bloody fall, I haue ſéene all fallen and ruined. In the ſame miſhap, haue I ſéene extinct, all that enuie, that made diuers many times to threaten my vndoing and vtter ruine, whiles I procured the good of the eſtate, and that I ſought nothing but to purchaſe onely my maiſters fauours, without any regard of the great ones, and neuer know<g ref="char:EOLhyphen"/>ing what it was to ſéeke the fauour and good will of the people, euermore bending my ſelfe wholy to this purpoſe.</p>
+            <p>But now in the end, depart from me all troubleſome carking care, I am now reſolued to mew vp my ſhip in a calme, and ſafe hauen: peraduenture the ſtate hauing loſt me, ſhall better acknowledge wherein I haue bene pro<g ref="char:EOLhyphen"/>fitable vnto it, and the people ſhall finde it, al<g ref="char:EOLhyphen"/>beit
+<pb facs="tcp:177602:7"/> ouerlate, when fauour and affection ſhall ſuccéed hatred: but I doe not ſo highly eſtéeme my owne grace and good, as that I ſhould de<g ref="char:EOLhyphen"/>ſire to obtaine it, by the diſaſters and calami<g ref="char:EOLhyphen"/>ties of my countrey: But contrariwiſe, grant O God, that the fortune of this Realme, may euermore continue in good eſtate, that I may neuer ſée it ouerthrowne, and that it may ne<g ref="char:EOLhyphen"/>uer haue cauſe to be ſory for the loſſe of me, or to wiſh for me againe.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
